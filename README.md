@@ -13,7 +13,10 @@ A modern QR code generator built using React, TypeScript, and Tailwind CSS.
 - React + Vite  
 - TypeScript  
 - Tailwind CSS  
-- react-qr-code  
+- react-qr-code
+    
+  🌐 Live Demo
+https://qrgen-inky.vercel.app/
 
  📦 Installation
 
